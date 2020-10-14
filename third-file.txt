@@ -1,1 +1,3 @@
 Let's write text third file
+
+Another line as added fron nano
